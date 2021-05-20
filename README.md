@@ -2,7 +2,7 @@
 
 Aplication queue using flutter
 
-#Design ui 
+# Design ui 
 ![alt text](https://github.com/baydim/queue/blob/master/lib/Group%2015.png)
 
 ## Getting Started
